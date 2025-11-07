@@ -1,0 +1,9 @@
+ma\formations\springmvcrestdatajpa\service\modele\Emp.class
+ma\formations\springmvcrestdatajpa\controller\rest\EmpRestController.class
+ma\formations\springmvcrestdatajpa\SpringmvcRestDataJpaApplication.class
+ma\formations\springmvcrestdatajpa\controller\EmpController.class
+ma\formations\springmvcrestdatajpa\domaine\EmpConverter.class
+ma\formations\springmvcrestdatajpa\service\IService.class
+ma\formations\springmvcrestdatajpa\service\ServiceImpl.class
+ma\formations\springmvcrestdatajpa\dao\EmpRepository.class
+ma\formations\springmvcrestdatajpa\domaine\EmpVo.class
