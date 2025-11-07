@@ -1,0 +1,7 @@
+ma\formations\rest1\controller\HelloController2.class
+ma\formations\rest1\Rest1Application.class
+ma\formations\rest1\controller\ProductController.class
+ma\formations\rest1\service\IProductService.class
+ma\formations\rest1\service\model\Product.class
+ma\formations\rest1\service\ProductServiceImpl.class
+ma\formations\rest1\controller\HelloController.class

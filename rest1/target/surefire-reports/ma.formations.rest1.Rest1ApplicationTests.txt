@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ma.formations.rest1.Rest1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.120 s -- in ma.formations.rest1.Rest1ApplicationTests
